@@ -1,0 +1,595 @@
+
+
+
+
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    
+    
+    <meta name="description" content="lInternational University in Kuwait (AASU) is one of Kuwait's leading institutions of higher learning. AASU offers accredited degree programs and world class professional development opportunities.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+     
+    <!-- Favicon -->
+     <!--  <link rel="shortcut icon" type="image/x-icon" href="https://AASU-website.euwest01.umbraco.io/media/01mn15ap/pfavico.ico"> --> 
+     <link rel="shortcut icon" type="image/x-icon" rel="icon" type="image/x-icon" href="data:image/x-icon;base64,AAABAAEAEBAAAAAAAABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/&#x2B;AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAA=" />
+    <title>Home | Abdullah Al Salem University (AASU)</title>
+    <meta name="description" />
+    <meta name="keywords" />
+    <!-- Other head tags -->
+ 
+  <meta http-equiv="Cache-control" content="public">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+ 
+ 
+  <meta name="revisit-after" content="7 days">
+  <meta name="robots" content="index, follow">
+  <meta name="robots" content="noydir">
+  <meta name="robots" content="noodp">
+  <meta name="allow-search" content="yes">
+  <meta name="name" content="AASU">
+  <meta name="language" content="English">
+  <meta name="sitelock-site-verification" content="9472">
+  <meta name="description" content="AASU  AASU.">
+  <meta name="keywords" content="">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="AASU">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:title" content="AASU">
+  <meta property="og:description" content="AASU AASU.">
+  <meta property="og:url" content="https://www.AASU.edu.kw/">
+  <meta property="og:site_name" content="AASU">
+ 
+  <!-- <base href="/"> -->
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://www.AASU.edu.kw/">
+  <meta property="twitter:title" content="AASU">
+   
+  <meta property="twitter:description" content="AASU AASU s.">
+ 
+   
+  <meta name="google-site-verification" content="AASU">
+
+    <!-- All css files are included here. -->
+    <!-- Bootstrap fremwork main css -->
+ 
+     <link rel="stylesheet" href="/css/css/bootstrap.min.css" />
+    <!-- This core.css file contents all plugings css file. -->
+    <link rel="stylesheet" href="/css/css/core.css" />
+     <!-- Theme shortcodes/elements style -->
+       <link rel="stylesheet" href="/css/css/shortcode/shortcodes.css" />
+       <!-- Theme main style -->
+       <link rel="stylesheet" href="/css/css/style.css" />
+       <!-- Responsive css -->
+        <link rel="stylesheet" href="/css/css/responsive.css" />
+         <link rel="stylesheet" href="/css/css/CutstomCssbyTamoor.css" /> 
+        <!-- Style customizer -->
+        <link rel="stylesheet" href="/css/css/color/color-1.css" />
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Akaya&#x2B;Telivigala&amp;family=Almarai:wght@300&amp;display=swap" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,700,400,500|Material&#x2B;Icons">
+   
+          <!-- Modernizr JS -->
+     <script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=W9pEEvPeRv6VfHSikiG4iYHAJDj0TUinTubnSOzNcwMjL4hoQ1v61jasNh6BgJa_" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="https://ff.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly9hYXN1LmVkdS5rdy8"/><script src="/scripts/js/vendor/modernizr-3.11.7.min.js"></script>
+     <!-- for form star -->
+     
+     <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.0.0.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.16.0/jquery.validate.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js"></script>
+     <!-- for form end -->
+     <!-- Include the EmailJS library -->
+	<script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.3.2/email.min.js"></script>
+ <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+  <!-- public_id -->
+  <script>
+   
+	emailjs.init('YE_BNMOkfGND-wOYI');
+  </script>
+</head>
+ 
+<body>
+    <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->  
+    <!-- Body main wrapper start -->
+    
+    <div class="wrapper">
+	 <!-- Start of header area -->
+        <header class="header-area">
+             <div class="header-top blue-bg"> 
+                
+            </div>
+            <div class="header-bottom stick-h2 MainHeader"style=" ">
+                <div class="container">
+				<div class="row">
+				<div class="col-lg-12 col-md-12 col-12">
+                              <div class="container">
+                    <div class="row TopNarrowHeader">
+                        <!-- <div class="col-lg-6 col-md-7 col-12"> -->
+						<div class="col-lg-12 col-md-12 col-12">
+                            <div class="header-top-right">
+                                <div class="header-top-social f-right">
+                                    
+                                    <ul>
+                                       
+                                            <!--  <li><a href="https://portal.ku.edu.kw/kuadm/faces/login.jspx"  target="_blank" > Admission Applications</a></li> -->
+                                          <!-- <li><a href="https://outlook.office365.com/mail/"  target="_blank" > Email</a></li>-->
+                                    <li> </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="col-lg-6 col-md-5 d-none d-md-block"> -->
+                            <!-- <div class="header-top-right"> -->
+                                <!-- <div class="header-top-social f-right"> -->
+                                    <!-- <p>Follow Us :</p> -->
+                                    <!-- <ul> -->
+                                        <!-- <li><a href="#"><i class="icofont icofont-social-facebook"></i></a></li> -->
+                                        <!-- <li><a href="#"><i class="icofont icofont-social-twitter"></i></a></li> -->
+                                        <!-- <li><a href="#"><i class="icofont icofont-social-github"></i></a></li> -->
+                                    <!-- </ul> -->
+                                <!-- </div> -->
+                            <!-- </div> -->
+                        <!-- </div> -->
+                    </div>
+                </div>
+                        </div>
+				</div>
+                    <div class="row TopHeaderMenuWeb">
+                        <div class="col-lg-2 col-md-12 col-12">
+                            <div class="logo">
+                                <a href="\index"><img class="logoImage" src="https://aasu-website.useast01.umbraco.io/media/2dmbvwyn/logo3.png" alt=""> </a>  
+                            </div>
+                        </div>
+                        <div class="col-md-10 hidden-sm d-none d-md-block">
+                            <div class="menu-area f-right">
+                               <nav>
+                                    <ul>
+  <li><a href="/index">Home  </a></li>
+    <li><a href="/admissions2023">ADMISSIONS</a></li>
+    <li><a href="/about-us">  ABOUT US  </a></li>
+     <!--  <li><a href="/colleges">  COLLEGES  </a></li>   -->
+                                           <li><a href="#"><i  aria-hidden="true"></i>ACADEMICS </a>
+        <ul class="tas">
+            <li><a href="/registration">Registration</a></li>
+            <li><a href="/colleges">Colleges</a></li>
+            <li><a href="/media/y0elm1a1/aasu-academic-calendar-2023-2024-04.pdf" target="_blank">Academic Calendar 2023/2024</a></li>
+            <li><a href="/study-plans">Study Plans</a></li>
+           
+                                                        
+                                                    </ul>
+                                                </li>
+    <li><a href="/careers">  CAREERS  </a></li>
+    <li><a href="/procurement">  PROCUREMENT   </a></li>
+    <li><a href="/campus-tour">  CAMPUS TOUR   </a></li>
+    <li><a href="#"><i  aria-hidden="true"></i>Resources </a>
+        <ul class="tas">
+            <li><a href="https://aasu.opensis.com/" target="_blank" >MyAASU</a></li>
+            <li><a href="https://training.portal.medad.com/" target="_blank" >Library</a></li>
+            <li><a href="https://store.kortext.com/" target="_blank" >Book Store</a></li>
+            <li><a href="https://abdullah-alsalem-univ.moodlecloud.com/" target="_blank" > E-Learning</a></li>
+            <li><a href="https://outlook.office365.com/mail/" target="_blank" > Email </a></li>
+            <li><a href="https://aasuedukw-my.sharepoint.com/" target="_blank" > AASU Drive</a></li>
+            <!--<li><a href="/media/czcpxw2i/sick-leave-form.pdf" target="_blank" >Sick Leave Form</a></li>-->
+                                            
+                                                    </ul>
+                                                </li>
+                                      
+                                         
+                                      
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- mobile-menu-area start -->
+        <div class="mobile-menu-area clearfix">
+            <div class="container">
+                <div class="row">
+                    <div class="d-block d-lg-none col-sm-12 col-xs-12">
+                        <div class="mobile-menu">
+                            <nav id="dropdown">
+                                <ul>
+                                    
+                                     
+  <li><a href="/index">Home  </a></li>
+    <li><a href="/admissions2023">ADMISSIONS</a></li>
+                                        <li><a href="/about-us">  ABOUT US  </a></li>
+                                              <!--   <li><a href="/colleges">  COLLEGES  </a></li>   -->
+                                           <li><a href="#"><i  aria-hidden="true"></i>ACADEMICS </a>
+        <ul class="tas">
+            <li><a href="/registration">Registration</a></li>
+            <li><a href="/colleges">  Colleges  </a></li>
+            <li><a href="/media/y0elm1a1/aasu-academic-calendar-2023-2024-04.pdf" target="_blank">  Academic Calendar 2023/2024  </a></li>
+            <li><a href="/study-plans"   >Study Plans</a></li>
+           
+                                                        
+                                                    </ul>
+                                                </li>
+                                         <li><a href="/careers">  CAREERS  </a></li>
+                                         <li><a href="/procurement">  PROCUREMENT   </a></li>
+                                          <li><a href="/campus-tour">  CAMPUS TOUR   </a></li>
+                                              <li><a href="#"><i  aria-hidden="true"></i>Resources </a>
+                                                    <ul class="tas">
+                                                        <li><a href="https://aasu.opensis.com/" target="_blank" >MyAASU</a></li>
+                                                        <li><a href="https://training.portal.medad.com/" target="_blank" >Library</a></li>
+                                                        <li><a href="https://store.kortext.com/" target="_blank" >Book Store</a></li>
+                                                        <li><a href="https://abdullah-alsalem-univ.moodlecloud.com/" target="_blank" > E-Learning</a></li>
+                                                        <li><a href="https://outlook.office365.com/mail/" target="_blank" > Email </a></li>
+                                                        <li><a href="https://aasuedukw-my.sharepoint.com/" target="_blank" > AASU Drive</a></li>
+                                                        <!--<li><a href="/media/czcpxw2i/sick-leave-form.pdf" target="_blank" >Sick Leave Form</a></li>-->
+                                                    </ul>
+                                                </li>
+                                      
+                                </ul>
+                            </nav>
+                        </div>					
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- mobile-menu-area end -->
+        <!-- End of header area -->
+		 <!-- sstrat body area --> 
+		 
+		 <div class="slider-area">
+            <div class="slider-active">
+                <div class="slider-all">
+                    <img src="/media/imnj1eoa/slider1new.png" alt="">
+                    <div class="slider-text-wrapper">
+                        <div class="table">
+                            <!-- <div class="slider-text animated"> -->
+                                    <!-- <h3 style="  margin-bottom: -10px;text-transform:none; ">Vacancies available at</h3> -->
+                                    <!-- <h2>Abdullah Al-Salem University </h2> -->
+                                    <!-- <p style="  margin-top: -10px; ">for experienced and talented Kuwaitis </p> -->
+                                    <!-- <a class="button extra-small mb-20" href="#"> -->
+                                        <!-- <span>READ MORE</span> -->
+                                    <!-- </a> -->
+                                <!-- </div> -->
+                                <div class="slider-text animated" >  
+                                     
+                                    <h2>ANNOUNCEMENT<br>POSTGRADUATE SCHOLARSHIP</h2>   
+                                      
+                                     <a class="button extra-small mb-20" style="  background: #070830;" href="/phd-applications-mar-2024">  
+                                         <span>See Details</span>  
+                                     </a>  
+                                 </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="slider-all">
+                    <img src="/media/gzhbjkat/slider2new.png" alt="">
+                    <div class="slider-text-wrapper">
+                        <div class="table">
+                            <!-- <div class="slider-text animated"> -->
+                                    <!-- <h3 style="  margin-bottom: -10px;text-transform:none; ">Vacancies available at</h3> -->
+                                    <!-- <h2>Abdullah Al-Salem University </h2> -->
+                                    <!-- <p style="  margin-top: -10px; ">for experienced and talented Kuwaitis </p> -->
+                                    <!-- <a class="button extra-small mb-20" href="#"> -->
+                                        <!-- <span>READ MORE</span> -->
+                                    <!-- </a> -->
+                                <!-- </div> -->
+                                <div class="slider-text animated" >  
+                                     
+                                    <h2>ANNOUNCEMENT<br>POSTGRADUATE SCHOLARSHIP</h2>   
+                                      
+                                     <a class="button extra-small mb-20" style="  background: #070830;" href="/phd-applications-mar-2024">  
+                                         <span>See Details</span>  
+                                     </a> 
+                                 </div>
+                                
+                        </div>
+                    </div>
+                </div>
+                
+                
+
+                <div class="slider-all">
+                    <img src="/media/cgqcuszd/slider3new.png" alt="">
+                    <div class="slider-text-wrapper">
+                        <div class="table">
+                            <!-- <div class="slider-text animated"> -->
+                                    <!-- <h3 style="  margin-bottom: -10px;text-transform:none; ">Vacancies available at</h3> -->
+                                    <!-- <h2>Abdullah Al-Salem University </h2> -->
+                                    <!-- <p style="  margin-top: -10px; ">for experienced and talented Kuwaitis </p> -->
+                                    <!-- <a class="button extra-small mb-20" href="#"> -->
+                                        <!-- <span>READ MORE</span> -->
+                                    <!-- </a> -->
+                                <!-- </div> -->
+                                <div class="slider-text animated" >  
+                                     
+                                    <h2>ANNOUNCEMENT<br>POSTGRADUATE SCHOLARSHIP</h2>   
+                                      
+                                     <a class="button extra-small mb-20" style="  background: #070830;" href="/phd-applications-mar-2024">  
+                                         <span>See Details</span>  
+                                     </a>
+                                 </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End of slider area --> 
+		<div class="  afterslidelayer">
+				 
+				</div>
+				<!-- start Name_Detail area --> 
+				<br><br><br>
+		<div  class="container-fluid">
+		<div  class="row">
+		<div class="col-lg-12 col-md-12 col-12 col-sm-12 col-xs-12 colgname"  > <p class="colgnameMain"><strong>ABDULLAH AL SALEM UNIVERSITY (AASU)</strong></p>
+<p class="colgnameMainSubMain"><strong>Fostering Innovation in Education and Research</strong></p> </div>
+		 
+	 
+		<div class="col-lg-12 col-md-12 col-12 col-sm-12 col-xs-12 colgnamedetail"  >  <p class="colgnameMainDetail"><span>Abdullah Al Salem University (AASU) offers degree programs designed to empower youth to meet current and future challenges. Embracing the opportunities of New Kuwait (Kuwait's Vision 2035), AASU delivers world class education through collaboration of leading economic players and policy makers. </span></p></div>
+		 
+		</div>
+		</div>
+		<!-- end Name_Detail area --> 
+        <!-- start Detail area --> 
+		<div  class="container-fluid">
+		<div  class="row">
+		    
+		<!--<div class="col-lg-6 col-md-12 col-12 col-sm-12 col-xs-12 LightBlueDetail"  ><div class="LightBlueDetailImage">   Model.Value("indexCOLLEGES")</div></div>
+		<div class="col-lg-6 col-md-12 col-12 col-sm-12 col-xs-12 DarkBlueDetail"  ><div class="DarkBlueDetailImage"> Model.Value("indexRESEARCHCENTERS") </div> </div>-->
+			<div class="col-lg-6 col-md-12 col-12 col-sm-12 col-xs-12 LightBlueDetail"  ><div class=" "> <h5 class="font_5" style="font-size: 28px; color: #00d0d0; text-align: center;"><strong>DEGREE PROGRAMS</strong></h5>
+<p style="text-align: left; padding-left: 40px; font-size: 20px; color: #00d0d0;">AASU has various constituent colleges which offer degree programs at bachelors, masters and doctoral level. The colleges are:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul style="text-align: left;">
+<li style="text-align: left;">Business &amp; Entrepreneurship</li>
+<li style="text-align: left;">Computing &amp; Systems</li>
+<li style="text-align: left;">Engineering &amp; Energy</li>
+<li style="text-align: left;">Health &amp; Medicine</li>
+</ul>
+</li>
+</ul>
+<p style="text-align: left; padding-left: 40px; font-size: 12px; color: #00d0d0;">Long term plans include launch of additional colleges and degree programs.</p></div></div>
+		<div class="col-lg-6 col-md-12 col-12 col-sm-12 col-xs-12 DarkBlueDetail"  ><div class=" "><h5 class="font_5" style="text-align: center; font-size: 28px; color: #000040;"><strong>RESEARCH CENTERS</strong></h5>
+<ul>
+<li style="text-align: center;">Cyber Security and Digital Transformation | Data Science and Artificial Intelligence | Resource, Energy and Sustainability | Advanced Material Science and Engineering | Marine and Coastal Research | Quantitative Finance and Risk Management | Research in Entrepreneurship and Innovation | Health and Wellbeing | Innovative Learning | Future of Work</li>
+</ul> </div> </div>
+		
+		</div>
+		</div>
+		<!-- end Detail area -->
+			<!-- start baner area --> 
+			<div class="container-fluid">
+			    <div class="row hero-image">
+			        <div class="col-lg-12 col-md-12 col-12 col-sm-12 col-xs-12  ">
+			            	<div class="hero-image">
+  <div class="hero-text">
+     
+    <!--<p class="hero-text-p">POSTGRADUATE SCHOLARSHIPS</p>-->
+    <h3 style="text-transform:none; margin-top: 07px;">POSTGRADUATE SCHOLARSHIPS ANNOUNCED</h3>
+    <button><a href="/phd-applications-mar-2024">  See Details   </a></button>
+  </div>
+</div>
+			        </div>
+			    </div>
+			</div>
+		
+				<!-- end baner area --> 
+		 
+		  <!-- End body area --> 
+		 
+       <!-- Start footer area -->
+		<!-- <div class="Abovefooter"> -->
+		<!-- <span style=" -->
+    <!-- font-weight: bold; -->
+    <!-- font-size: 25px;color: #000040; -->
+<!-- ">Begin Your Journey Today </span><a class="button extra-small" href="#"style=" -->
+    <!-- background: #000040; -->
+<!-- "> -->
+                                    <!-- <span>Request Information -->
+<!-- </span> -->
+                                <!-- </a> -->
+		<!-- </div> -->
+ <footer class="footer-area">
+            <div class="footer-top ptb-110">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                            <div class="footer-text footer-social">
+							
+                                <a href="\index">
+                                    <img  class="logoImageFooter" src="https://aasu-website.useast01.umbraco.io/media/2dmbvwyn/logo3.png" alt="">
+                                </a>
+                                <p style="  font-size: 14px;  font-weight: 600;text-transform: uppercase;"> 
+                              <span>GATE 1, BUILDING 14</span>  <br>
+
+<span>KHALDIYA CAMPUS</span><br>
+
+<span>FIRDOUS STREET, BLOCK 3</span><br>
+
+<span>KHALDIYA, KUWAIT</span>
+<br>
+<span style="  text-transform: lowercase; "><a href="mailto:info@aasu.edu.kw">info@aasu.edu.kw</a></span>
+</p>
+
+ 
+                                <ul>
+                                    <li><a href="https://www.facebook.com/aasuedukw" target="_blank" ><i class="zmdi zmdi-facebook"></i></a></li>
+                                    <li><a href="https://www.instagram.com/aasuedukw" target="_blank" ><i class="fa fa-instagram"></i></a></li>
+                                      <li><a  href="https://www.linkedin.com/school/aasuedukw" target="_blank" ><i class="fa fa-linkedin"></i> </a></li>
+                                    <li><a href="https://twitter.com/aasuedukw" target="_blank" ><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="https://www.youtube.com/aasuedukw" target="_blank" ><i class="fa fa-youtube-play"></i></a></li>
+                                     
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                            <div class="footer-text  "style="
+    margin-top: 10px;
+">
+                                
+                                <!-- <h3>Quick Links</h3> -->
+                                <ul class="footer-text-all">
+                                    <li><a href="\index">HOME</a></li>
+                                    <li><a href="https://outlook.office365.com/mail/"  target="_blank" > EMAIL</a></li>
+                                      <!-- <li><a href="\comingsoon"  target="_blank" > MY.AASU</a></li> -->
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                            <div class="footer-text"   style="
+    margin-top: 10px;
+">
+                               
+                                <!--  <h3>pages</h3> -->
+                                <ul class="footer-text-all">
+                                     
+                                    <li><a href="/about-us">  ABOUT US  </a></li>
+                                         <li><a href="/colleges">  COLLEGES  </a></li>
+                                         <li><a href="/careers">  CAREERS  </a></li>
+                                         <li><a href="/procurement">  PROCUREMENT   </a></li>
+                                          <li><a href="/campus-tour">  CAMPUS TOUR   </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                            <div class="footer-text"  style="
+    margin-top: 10px;
+" >
+                               <h3>Contact Us</h3>
+                               <form id="my-form">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <input  id="name" name="name" placeholder="Name*" type="text"required>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <input class="in-mrg" id="email" name="email" placeholder="Email*" type="email" required>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <textarea placeholder="Massage*" id="message" name="message" required></textarea>
+                                            <button  id="myBtn" class="submit" type="submit">send</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+					 <div class="row" style="
+    margin-top: 30px;
+">
+                        <div class="col-lg-12 text-center copyright">
+                            <div class="footer-bottom-text  ">
+                                <p>
+                                    © Copyright 2023, All Rights Reserved by Abdullah Al Salem University (AASU) 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="footer-bottom"> -->
+                <!-- <div class="container"> -->
+                    <!-- <div class="row"> -->
+                        <!-- <div class="col-lg-12 text-center"> -->
+                            <!-- <div class="footer-bottom-text ptb-20"> -->
+                                <!-- <p> -->
+                                    <!-- Copyrights © <a href="https://hasthemes.com/" target="_blank"> 2021 HasTech</a> -->
+                                <!-- </p> -->
+                            <!-- </div> -->
+                        <!-- </div> -->
+                    <!-- </div> -->
+                <!-- </div> -->
+            <!-- </div> -->
+        </footer>
+        <!-- End footer area -->
+        <!-- start scrollUp
+        ============================================ -->
+        <div id="toTop">
+            <i class="fa fa-chevron-up"></i>
+        </div>
+       
+    </div>
+    <!-- Body main wrapper end -->
+    
+    
+      <script>
+    const form = document.getElementById('my-form');
+    form.addEventListener('submit', (event) => {
+      event.preventDefault(); // Prevent the form from submitting normally
+       document.getElementById("myBtn").disabled = true;
+  //service_id -->
+      const serviceID = 'service_cza4l9n';
+      const templateID = 'template_4m9hwbe';
+   
+      
+     var name = document.getElementById("name").value;
+			var email = document.getElementById("email").value;
+			var message = document.getElementById("message").value;
+
+      const params = {
+        //to_email: toEmail,
+        from_name: name,
+         to_email: email,
+        message: message
+      };
+
+       
+	  emailjs.send(serviceID, templateID, params)
+        .then((response) => {
+          console.log('SUCCESS!', response.status, response.text);
+          document.getElementById("name").value = "";
+					document.getElementById("email").value = "";
+					document.getElementById("message").value = "";
+					 document.getElementById("myBtn").disabled = false;
+          form.reset();
+        }, (error) => {
+          console.log('FAILED...', error);
+           document.getElementById("name").value = "";
+					document.getElementById("email").value = "";
+					document.getElementById("message").value = "";
+					 document.getElementById("myBtn").disabled = false;
+        });
+    });
+  </script>
+    
+    
+    
+    
+    
+    
+
+    <!-- Placed js at the end of the document so the pages load faster -->
+
+    <!-- jquery latest version -->
+    
+      <script src="/scripts/js/vendor/jquery-v1.12.4.min.js"></script>
+    <!-- Bootstrap framework js -->
+    
+      <script src="/scripts/js/popper.min.js"></script>
+       <script src="/scripts/js/bootstrap.min.js"></script>
+           <!--  ajax-mail.js  -->	
+     <script src="/scripts/js/ajax-mail.js"></script>
+       <!-- All js plugins included in this file. -->
+      <script src="/scripts/js/plugins.js"></script>
+     <script src="/scripts/js/main.js"></script>
+       
+     
+<!--  <script>-->
+<!--	$(document).ready(function(){-->
+<!--		$("#exampleModalqr").modal('show');-->
+<!--	});-->
+<!--</script>-->
+<!-- for form star -->
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.0.0.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.16.0/jquery.validate.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js"></script>
+    <!-- for form end -->
+</body>
+
+</html>
